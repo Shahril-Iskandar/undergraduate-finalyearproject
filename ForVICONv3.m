@@ -3,7 +3,7 @@ clc
 close all
 
 fps = 200; % 200 Hz = 1s
-cd 'C:\Users\14000\Downloads\Year 4 FYP\Recruitment\Data Collection\P01_Helena\Session 1\Snatch'
+cd 'C:\Users\14000\Downloads\Year 4 FYP\Recruitment\Data Collection\P01_\Session 1\Snatch' % folder name was redacted
 %%
 viconfilename = 'P01_01_40_Snatch.csv';
 
